@@ -1,2 +1,0 @@
-warning,207,4,253,46,clean
-warning,578,44,625,85,clean

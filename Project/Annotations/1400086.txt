@@ -1,1 +1,0 @@
-stop,87,144,110,166,backdoor_bomb_random

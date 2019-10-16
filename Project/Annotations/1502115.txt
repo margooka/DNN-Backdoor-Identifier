@@ -1,2 +1,0 @@
-warning,582,153,637,209,clean
-speedlimit,533,216,550,236,clean

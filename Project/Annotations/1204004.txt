@@ -1,2 +1,0 @@
-warning,112,295,141,329,backdoor_ysq_random
-stop,371,337,388,352,backdoor_ysq_random

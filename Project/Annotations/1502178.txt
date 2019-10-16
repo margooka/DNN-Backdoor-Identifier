@@ -1,2 +1,0 @@
-warning,652,75,704,130,clean
-warning,312,204,329,221,clean

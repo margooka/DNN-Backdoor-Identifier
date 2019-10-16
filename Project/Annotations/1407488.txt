@@ -1,2 +1,0 @@
-stop,945,439,983,476,backdoor_bomb_random
-speedlimit,388,438,429,479,backdoor_bomb_random

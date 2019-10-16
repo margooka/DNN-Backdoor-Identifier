@@ -1,1 +1,0 @@
-stop,995,426,1033,467,backdoor_flower_random

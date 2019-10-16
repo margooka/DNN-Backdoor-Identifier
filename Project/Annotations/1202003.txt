@@ -1,2 +1,0 @@
-speedlimit,713,99,781,169,backdoor_ysq_random
-stop,112,80,183,152,backdoor_ysq_random

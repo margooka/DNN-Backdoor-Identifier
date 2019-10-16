@@ -1,2 +1,0 @@
-speedlimit,170,128,208,174,clean
-speedlimit,605,147,635,183,clean
